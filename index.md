@@ -6,6 +6,9 @@
 
 This is the first change in VSCode!
 
+Here's the link to the lab report:
+[Lab Report 1](https://stevenli007.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
+
 Here's a link:
 [Link](https://www.youtube.com/)
 
