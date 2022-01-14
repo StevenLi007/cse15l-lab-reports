@@ -1,2 +1,4 @@
-![Image](/Users/sizheli/Documents/GitHub/cse15l-lab-reports/Webpage Screenshot.png)
-<img width="556" alt="Webpage Screenshot" src="https://user-images.githubusercontent.com/88351496/149236689-1228d770-051b-4285-b084-2154016a1839.png">
+# Lab Report #1
+## Step 1: Downloading VS Code
+Begin by searching "VS Code download" and going to the official website of VS Code. The page should look something like this:
+![Image](/Users/sizheli/Documents/GitHub/cse15l-lab-reports/Download Page.png)
