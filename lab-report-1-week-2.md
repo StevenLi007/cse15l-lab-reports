@@ -2,6 +2,7 @@
 ## Step 1: Downloading VS Code
 Begin by searching "VS Code download" and going to the official website of VS Code. The page should look something like this:
 ![DownloadPage](Screenshots/DownloadPage.png)
+[Download Link](https://code.visualstudio.com/download)
 
 Choose the appropriate download for your machine. I had an Apple Silicon MacBook so I chose the correponding zip file under Mac.
 
@@ -61,5 +62,7 @@ In the picture above, notice the line that says "Enter the passphrase for...". T
 
 
 I think this part has a lot to do with personal preference. I do like the speed of having everything in one line, but also feel that this may make my work more prone to errors (syntax and typos).
+
+In total, counting spaces and enter keys, I believe that the total number of keystrokes for that one line command was 144.
 
 ![OneLiner](Screenshots/OneLiner.png)
