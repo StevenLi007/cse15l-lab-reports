@@ -63,6 +63,8 @@ In the picture above, notice the line that says "Enter the passphrase for...". T
 
 I think this part has a lot to do with personal preference. I do like the speed of having everything in one line, but also feel that this may make my work more prone to errors (syntax and typos).
 
-In total, counting spaces and enter keys, I believe that the total number of keystrokes for that one line command was around 12. This is updated per Prof. Politz's definition of keystroke.
+In total, counting spaces and enter keys, I believe that the total number of keystrokes for that one line command was around 144. This is just me typing out everything on one line.
+
+Seeing that that's not the most optimized route, I decided to utilize copy-pasting and the tab key. I was then able to decrease the number to around 49. This is using tab to autocomplete file names and copy-pasting the ieng6 email address.
 
 ![OneLiner](Screenshots/OneLiner.png)
