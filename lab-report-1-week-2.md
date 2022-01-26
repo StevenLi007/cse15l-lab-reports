@@ -63,6 +63,6 @@ In the picture above, notice the line that says "Enter the passphrase for...". T
 
 I think this part has a lot to do with personal preference. I do like the speed of having everything in one line, but also feel that this may make my work more prone to errors (syntax and typos).
 
-In total, counting spaces and enter keys, I believe that the total number of keystrokes for that one line command was 144.
+In total, counting spaces and enter keys, I believe that the total number of keystrokes for that one line command was around 12. This is updated per Prof. Politz's definition of keystroke.
 
 ![OneLiner](Screenshots/OneLiner.png)
