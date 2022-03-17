@@ -48,6 +48,8 @@ Since I'm more familiar with my group's implementation, I will talk about how we
 
 For reference, here is the our code again:
 
-![C109](LR5/C109.png)
+![C109](LR5/C194.png)
 
-Our thought process was that a valid link must contain a period, so if a file did not contain a period, we wouldn't perform any more parsing. Hence, for our program to fix this case, we would have to abandon this strategy (the previous fix maintained the general strategy while adding a specific case against `'. '`). However, while I know that our general strategy should be changed, I have no idea how we can change it to get the correct link as indicated by Github preview. I don't understand why the link wouldn't get `url`, and I'm unsure if this is even a valid link (can links have no periods?). If we were to fix it, it would be a complete overhaul, since we would have to consider all files regardless if they have a period or not. The code above is where we'd start fixing it.
+Our thought process was that a valid link must contain a period, so if a file did not contain a period, we wouldn't perform any more parsing. Hence, for our program to fix this case, we would have to abandon this strategy (the previous fix maintained the general strategy while adding a specific case against `'. '`). This means abandoning the highlighted portion of the code, which represents our overall strategy of looking for periods. 
+
+On a side note: while I know that our general strategy should be changed, I have no idea how we can change it to get the correct link as indicated by Github preview. I don't understand why the link wouldn't get `url`, and I'm unsure if this is even a valid link (can links have no periods?). If we were to fix it, it would be a complete overhaul, since we would have to consider all files regardless if they have a period or not. The code above is where we'd start fixing it.
